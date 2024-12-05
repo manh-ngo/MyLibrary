@@ -8,6 +8,6 @@ object NewUtils {
     }
 
     fun test(): Int {
-        return 10010
+        return 10011
     }
 }
